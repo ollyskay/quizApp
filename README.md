@@ -1,2 +1,2 @@
 # quizApp
-An quiz Application.
+A quiz Application.
